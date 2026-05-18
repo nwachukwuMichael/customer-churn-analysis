@@ -15,6 +15,13 @@ churn, and where the retention team should focus first.
 - 1,869 customers lost out of 7,043 total
 
 ### 2. Contract type is the strongest churn driver
+
+| Contract | Total customers | Churned | Churn rate |
+|---|---|---|---|
+| Month-to-month | 3,875 | 1,655 | 42.71% |
+| One year | 1,473 | 166 | 11.27% |
+| Two year | 1,695 | 48 | 2.83% |
+
 - Month-to-month customers churn at **42.7%** — nearly 4 times higher 
   than customers on annual contracts (11.27%)
 - Customers on two-year contracts churn at just **2.83%**
