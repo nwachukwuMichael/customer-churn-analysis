@@ -22,6 +22,20 @@ churn, and where the retention team should focus first.
   biggest lever for reducing churn*
 
 ### 3. The first 12 months are critical
+
+### Q3 — Churn rate by tenure (when do customers leave?)
+
+| Tenure group | Total customers | Churned | Churn rate |
+|---|---|---|---|
+| 0–12 months | 2,173 | 819 | 37.69% |
+| 13–24 months | 801 | 285 | 35.58% |
+| 25–36 months | 648 | 187 | 28.86% |
+| 37–48 months | 598 | 144 | 24.08% |
+| 49–60 months | 588 | 124 | 21.09% |
+| 60+ months | 1,235 | 310 | 25.10% |
+
+> Churn is highest in the first 12 months. The early customer experience 
+> is the highest-priority area for intervention.
 - Customers who churn do so mostly within the **first 12 months**
 - After 24 months, churn drops significantly — long-tenure customers 
   are far more loyal
