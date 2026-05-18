@@ -27,12 +27,12 @@ churn, and where the retention team should focus first.
 
 | Tenure group | Total customers | Churned | Churn rate |
 |---|---|---|---|
-| 0–12 months | 2,173 | 819 | 37.69% |
-| 13–24 months | 801 | 285 | 35.58% |
-| 25–36 months | 648 | 187 | 28.86% |
-| 37–48 months | 598 | 144 | 24.08% |
-| 49–60 months | 588 | 124 | 21.09% |
-| 60+ months | 1,235 | 310 | 25.10% |
+| 0–12 months | 2,186 | 1,037 | 47.44% |
+| 13–24 months | 1,024 | 294 | 28.71% |
+| 25–36 months | 832 | 180 | 21.63% |
+| 37–48 months | 762 | 145 | 19.03% |
+| 49–60 months | 832 | 120 | 14.42% |
+| 60+ months | 1,407 | 93 | 6.61% |
 
 > Churn is highest in the first 12 months. The early customer experience 
 > is the highest-priority area for intervention.
